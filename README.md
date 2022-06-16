@@ -1,6 +1,6 @@
 # Demo App
 Feel free to click on this link and see the demo of my work:
-`https://guarded-hamlet-00112.herokuapp.com/`
+` https://guarded-hamlet-00112.herokuapp.com/ `
 
 # Getting Started with Create React App
 
